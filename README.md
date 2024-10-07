@@ -1,6 +1,11 @@
-# Getting Started with Create React App
+# Whatsapp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+`Whatsapp` is a fashion editorial presented in the form of Whatsapp user interface. The editorial is about two Hong Kong strangers – Lee & Ruby – who meet up in the middle of London Bridge to return a lost train card to the other person. The image is taken in panorama-style with iPhone, and it could be read from the left (thus will be from the perspective of Ruby) or the right (the perspective of Lee). The full image is published in INNER Magazine and can be viewed online on my Instagram. Users can follow the narrative of the editorial by typing on their keyboard. This behavior will trigger the chat to pop up, revealing the conversation between Lee & Ruby and occasionally attach images to provide more context.
+
+## Frameworks & Libraries Used
+1. React.js
+2. Material UI
+3. styled-components
 
 ## Available Scripts
 
